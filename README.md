@@ -21,8 +21,11 @@
 | :---: | :---: | :--- |
 | [01](labs/lab01.md) | 05.03 | Software Installation. Unity 3D Introduction |
 | [02](labs/lab02.md) | 12.03 | The marble drop game. Creating a Basic First-Person Shooter |
-| [03](labs/lab03.md) | 19.03 |  |
+| [03](labs/lab03.md) | 19.03 | Individual Assignment presentation. Lerp, Animation, Collisions, Audio, Raycasting. Using GIT and Unity |
 
+## Projects
+
+- [Project 1 (Individual Assignment)](./projects/ia.md)
 
 <!--
 ## Resources 
