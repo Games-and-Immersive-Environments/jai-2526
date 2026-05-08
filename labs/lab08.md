@@ -16,7 +16,7 @@ The following teams are requested to attend today's class:
     - [ ] Rodrigo Narciso Da Costa Patrício
     - [ ] Youssef Bekhit
     - [ ] Madalena Fortunato Alves
-- **Team 04**: 
-    - [ ] Guilherme de Aboim Quental de Oliveira Simões
-    - [ ] Alexandre Tashchuk
-    - [ ] Raul Louro Correia dos Santos
+- **Team 04**: (on May 7)
+    - [x] Guilherme de Aboim Quental de Oliveira Simões
+    - [x] Alexandre Tashchuk
+    - [x] Raul Louro Correia dos Santos
