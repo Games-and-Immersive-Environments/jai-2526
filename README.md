@@ -39,7 +39,7 @@
 | [07](slides/lecture07.pdf) |  24.04 | Mixed Reality Concepts, VR, AR, History. |
 | [08](slides/lecture07.pdf) |  28.04 | Mixed Reality Concepts, VR, AR, History. (contined). VR/AR Live Demo. |
 
-| [09](slides/lecture08.pdf) |  28.04 | Presence, Interaction, Health Issues. |
+| [09](slides/lecture08.pdf) |  08.05 | Presence, Interaction, Health Issues. |
 
 
 
