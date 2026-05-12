@@ -12,6 +12,7 @@
 - April 18: Added folder with previous midterms.
 - April 23: Added samples of previous year [Game Concept and Proposals](./ga-samples/). Updated [Group Assignment description](./projects/ga.md).
 - May 4: Added [results](./README.md#grades) from Midterm 1.
+- May 12: Midterm 1 revision will be on Thursday May 14, after lab session (room 112-II)
 
 ## Important Dates
 
@@ -20,8 +21,8 @@
 - [x] April 19, 23h59 - Complete [Individual Assignment Peer Evaluation](./projects/ia_peer_evaluation_instructions.md).
 - [x] April 21, 18h30 - Midterm 1.
 - [x] April 26, 23h59 - [Group Assignment (Game Concept and Proposal)](./projects/ga.md).
-- [ ] June 6, 9h30 - Midterm 2.
 - [ ] June 8, 23h59 - Group Assignment (Final commit, video and report)
+- [ ] June 9, 9h30 - Midterm 2.
 - [ ] June 11 or 12 (TBA), Public Final Game Presentations.
 
 ## Lectures
