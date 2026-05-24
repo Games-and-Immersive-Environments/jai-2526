@@ -9,14 +9,14 @@ The following teams are requested to attend today's class:
     - [ ] Youssef Bekhit
     - [ ] Madalena Fortunato Alves
 - **Team 04**: 
-    - [ ] Guilherme de Aboim Quental de Oliveira Simões
-    - [ ] Alexandre Tashchuk
-    - [ ] Raul Louro Correia dos Santos
+    - [x] Guilherme de Aboim Quental de Oliveira Simões
+    - [x] Alexandre Tashchuk
+    - [x] Raul Louro Correia dos Santos
 - **Team 05**:
     - [ ] Nuno Teixeira
     - [ ] Tiago Adriano
     - [ ] Mariana Batista
 - **Team 06**: 
-    - [ ] Daniel José Nascimento de Castro Martins Martins
-    - [ ] Miguel de Almeida Saraiva
-    - [ ] João Maria Gil de Aboim
+    - [x] Daniel José Nascimento de Castro Martins Martins
+    - [x] Miguel de Almeida Saraiva
+    - [x] João Maria Gil de Aboim

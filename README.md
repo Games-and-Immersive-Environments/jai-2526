@@ -13,6 +13,8 @@
 - April 23: Added samples of previous year [Game Concept and Proposals](./ga-samples/). Updated [Group Assignment description](./projects/ga.md).
 - May 4: Added [results](./README.md#grades) from Midterm 1.
 - May 12: Midterm 1 revision will be on Thursday May 14, after lab session (room 112-II)
+- May 25: Extra lecture sceheduled for May 28th, at 18h00, room 112-II (Replacement for 20.03 cancelled lecture)
+- June 2: Slides from last lecture available. Added collection of all lectures in a single PDF. Deadline for GA project moved to June 10. Demos/Presentations set for June 12.
 
 ## Important Dates
 
@@ -21,9 +23,9 @@
 - [x] April 19, 23h59 - Complete [Individual Assignment Peer Evaluation](./projects/ia_peer_evaluation_instructions.md).
 - [x] April 21, 18h30 - Midterm 1.
 - [x] April 26, 23h59 - [Group Assignment (Game Concept and Proposal)](./projects/ga.md).
-- [ ] June 8, 23h59 - Group Assignment (Final commit, video and report)
 - [ ] June 9, 9h30 - Midterm 2.
-- [ ] June 11 or 12 (TBA), Public Final Game Presentations.
+- [ ] June 10, 23h59 - Group Assignment (Final commit, video and report)
+- [ ] June 12, Public Final Game Presentations.
 
 ## Lectures
 
@@ -41,6 +43,11 @@
 | [08](slides/lecture07.pdf) |  28.04 | Mixed Reality Concepts, VR, AR, History. (contined). VR/AR Live Demo. |
 | [09](slides/lecture08.pdf) |  08.05 | Presence, Interaction, Health Issues. |
 | [10](slides/lecture09.pdf) |  15.05 | Game Engine Runtime Architecture. Graphics Rendering Pipeline. Pipeline Optimization. |
+| [11](slides/lecture09.pdf) |  22.05 | Pipeline Optimization (continued). Also see repo with demo code [here](https://github.com/Games-and-Immersive-Environments/PipelineAccelerationDemo).|
+| [12](slides/lecture10.pdf) |  28.05 | The Graphics Processing Unit (GPU). Advanced Shading. |
+| [13](slides/lecture10.pdf) |  29.05 | Adanced Shading (continued). |
+| [All](slides/GAI-Lectures.pdf) |  --.-- | All lectures |
+
 
 
 ## Labs
