@@ -6,17 +6,17 @@ The following teams are requested to attend today's class:
 
 - **Team 01**: 
     - [ ] António Neves Mendes
-    - [ ] Miguel Pedro Mendonça Berneaud
-    - [ ] David Fernando Veríssimo Vicente
+    - [x] Miguel Pedro Mendonça Berneaud, Lab 10 e 11
+    - [x] David Fernando Veríssimo Vicente, Lab 11
 - **Team 02**: 
-    - [ ] Douglas William Bewiahn
-    - [ ] José Luís Couto Soares
-    - [ ] Nasha Bagasse
+    - [x] Douglas William Bewiahn
+    - [x] José Luís Couto Soares
+    - [x] Nasha Bagasse
 - **Team 09**: 
-    - [ ] Vicente Marques de Barros Naves da Silva
+    - [x] Vicente Marques de Barros Naves da Silva
     - [ ] Cláudio Luís Garcia da Costa
-    - [ ] Diogo Aivado Nunes Esperança
+    - [x] Diogo Aivado Nunes Esperança
 - **Team 10**: 
-    - [ ] José Pedro Rodrigues Dias
+    - [x] José Pedro Rodrigues Dias
     - [ ] Miguel Bernardo Pignatelli Soares e Varela Pinto
     - [ ] Rodrigo Cardoso Correia Marques Baptista

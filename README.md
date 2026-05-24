@@ -13,6 +13,7 @@
 - April 23: Added samples of previous year [Game Concept and Proposals](./ga-samples/). Updated [Group Assignment description](./projects/ga.md).
 - May 4: Added [results](./README.md#grades) from Midterm 1.
 - May 12: Midterm 1 revision will be on Thursday May 14, after lab session (room 112-II)
+- May 25: Extra lecture sceheduled for May 28th, at 18h00, room 112-II (Replacement for 20.03 cancelled lecture)
 
 ## Important Dates
 
@@ -41,6 +42,8 @@
 | [08](slides/lecture07.pdf) |  28.04 | Mixed Reality Concepts, VR, AR, History. (contined). VR/AR Live Demo. |
 | [09](slides/lecture08.pdf) |  08.05 | Presence, Interaction, Health Issues. |
 | [10](slides/lecture09.pdf) |  15.05 | Game Engine Runtime Architecture. Graphics Rendering Pipeline. Pipeline Optimization. |
+| [11](slides/lecture09.pdf) |  22.05 | Pipeline Optimization (continued). |
+
 
 
 ## Labs
