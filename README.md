@@ -46,7 +46,8 @@
 | [11](slides/lecture09.pdf) |  22.05 | Pipeline Optimization (continued). Also see repo with demo code [here](https://github.com/Games-and-Immersive-Environments/PipelineAccelerationDemo).|
 | [12](slides/lecture10.pdf) |  28.05 | The Graphics Processing Unit (GPU). Advanced Shading. |
 | [13](slides/lecture10.pdf) |  29.05 | Adanced Shading (continued). |
-| [All](slides/GAI-Lectures.pdf) |  --.-- | All lectures |
+| [Part-I](slides/GAI-Lectures-I.pdf) | --.-- | Lectures (Part I)  |
+| [Part-II](slides/GAI-Lectures-II.pdf) | --.-- |   Lectures (Part II) |
 
 
 
