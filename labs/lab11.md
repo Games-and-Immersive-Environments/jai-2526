@@ -5,8 +5,8 @@
 The following teams are requested to attend today's class:
 
 - **Team 03**: 
-    - [ ] Rodrigo Narciso Da Costa Patrício
-    - [ ] Youssef Bekhit
+    - [x] Rodrigo Narciso Da Costa Patrício
+    - [x] Youssef Bekhit
     - [ ] Madalena Fortunato Alves
 - **Team 04**: 
     - [x] Guilherme de Aboim Quental de Oliveira Simões
