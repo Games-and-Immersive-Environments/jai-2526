@@ -3,6 +3,7 @@
 ## Important
 
 - Midterm 1 will focus on all lectures (1 to 6), excluding the collision detection section on lecture06.pdf.
+- Midterm 2 will focus on lecture 6 (collision detection onwards) and lectures 7-10 (pdf files, not actual lecture sessions). 
 
 ## News
 
@@ -14,7 +15,8 @@
 - May 4: Added [results](./README.md#grades) from Midterm 1.
 - May 12: Midterm 1 revision will be on Thursday May 14, after lab session (room 112-II)
 - May 25: Extra lecture sceheduled for May 28th, at 18h00, room 112-II (Replacement for 20.03 cancelled lecture)
-- June 2: Slides from last lecture available. Added collection of all lectures in a single PDF. Deadline for GA project moved to June 10. Demos/Presentations set for June 12.
+- June 2: Slides from last lecture available. Added collection of all lectures in two PDF files. Deadline for GA project moved to June 10. Demos/Presentations set for June 12.
+- June 4: Appointment slots for final presentations made available (see Important Dates below). Added Midterm 2 from last year.
 
 ## Important Dates
 
@@ -25,7 +27,7 @@
 - [x] April 26, 23h59 - [Group Assignment (Game Concept and Proposal)](./projects/ga.md).
 - [ ] June 9, 9h30 - Midterm 2.
 - [ ] June 10, 23h59 - Group Assignment (Final commit, video and report)
-- [ ] June 12, Public Final Game Presentations.
+- [ ] June 12, Public Final Game Presentations (Book your slot [here](https://calendar.app.google/qrsNbAtcZYViC4wx8)!)
 
 ## Lectures
 
