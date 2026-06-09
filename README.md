@@ -17,6 +17,7 @@
 - May 25: Extra lecture sceheduled for May 28th, at 18h00, room 112-II (Replacement for 20.03 cancelled lecture)
 - June 2: Slides from last lecture available. Added collection of all lectures in two PDF files. Deadline for GA project moved to June 10. Demos/Presentations set for June 12.
 - June 4: Appointment slots for final presentations made available (see Important Dates below). Added Midterm 2 from last year.
+- June 9: Please check the Game Assignment page with instructions on what to submit and how. Deadline is June 10 23h59!
 
 ## Important Dates
 
@@ -25,8 +26,8 @@
 - [x] April 19, 23h59 - Complete [Individual Assignment Peer Evaluation](./projects/ia_peer_evaluation_instructions.md).
 - [x] April 21, 18h30 - Midterm 1.
 - [x] April 26, 23h59 - [Group Assignment (Game Concept and Proposal)](./projects/ga.md).
-- [ ] June 9, 9h30 - Midterm 2.
-- [ ] June 10, 23h59 - Group Assignment (Final commit, video and report)
+- [x] June 9, 9h30 - Midterm 2.
+- [ ] June 10, 23h59 - [Group Assignment](./projects/ga.md) (Final commit, video and report)
 - [ ] June 12, Public Final Game Presentations (Book your slot [here](https://calendar.app.google/qrsNbAtcZYViC4wx8)!)
 
 ## Lectures

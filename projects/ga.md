@@ -1,12 +1,25 @@
 # Project 2 - Group Assignment
 
+## Final delivery
+
+Please submit all the information in the following form:
+
+[https://forms.office.com/e/eEunV5sM4x](https://forms.office.com/e/eEunV5sM4x)
+
+It includes:
+- Team name
+- Game Title
+- Video URL (around 3 min)
+- Repository URL with updated Game Design Document at the root.
+
 ## Teams Registration
 
 Please [register your team here](https://unlpt-my.sharepoint.com/:x:/g/personal/fpb_fct_unl_pt/IQAy1msBH4DaTKuH7QATbkXlAUF3o05Sxr45anFwQ0u5eao?e=FdKYn1) until Wednesday, April 15. [**CLOSED**]
 
 **Note**: to help you reaching out to your mates I have setup a discord group with a forum to do just that: [https://discord.gg/CGFFHNkr](https://discord.gg/CGFFHNkr).
 
-**Deliver your Concept and Proposal**: Add your documento to your repository. Add a 
+**Deliver your Concept and Proposal**: Add your document to your repository root.
+
 ## Objectives
 
 - [Propose and develop a game](#Part-1:-Concept-and-Proposal). [due on April 26, 23h59.]
@@ -153,8 +166,37 @@ Each group should program the game using the assigned GIT repository. There shou
 
 ## Part 3: Game Design Document [4 Points]
 
-(place holder)
+### Game Design Document
+
+In the second stage the team should submit one pdf document (use letter size 11) containing the Game Design Document. 
+
+The **Game Design Document** is the final document with a maximum of 6 pages plus annexes with an updated version of the Concept/Proposal Document.
+
+Should contain:
+- 1 page synopsis with updated version of concept document.
+- 5 pages with summarized description of everything and connection to listings in annexes. 
+
+This last part should contain:
+- Updated version of the Proposal.
+- Game Interface description.
+- Technology elements you chose (see Technology section) with description of how you solved the problems, if required create schematics and additional details in annex.
+- Self-Assessment table: What do you think should be your score in the Technology and Research sections?
+
+**Annexes** with:
+- list of external assets, external plugins or addons
+- listings of concepts, screenshots, drawings, concept art, level design etc.
+
+The documents should be self-sufficient with small examples. The annexes should only provide additional information.
+
+**Video**: The final video should have 2 to 4 minutes and should present:
+- Title, story, hook
+- Assets created
+- The game, main mechanics
+- The technology, main techniques used.
 
 ## Part 4: Final Presentation [2 Points]
 
-(place holder)
+Each team will have to present the game in front of the class. Each team member should present an equal time slot. The presentation should include slides, gameplay videos, images,
+and sounds. 
+
+The presentation should focus on the game tetrad elements: story, mechanics, aesthetics and technology. It should describe all the necessary elements required for the evaluation of the topics listed in the previous section.
