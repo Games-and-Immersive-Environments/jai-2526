@@ -18,6 +18,7 @@
 - June 2: Slides from last lecture available. Added collection of all lectures in two PDF files. Deadline for GA project moved to June 10. Demos/Presentations set for June 12.
 - June 4: Appointment slots for final presentations made available (see Important Dates below). Added Midterm 2 from last year.
 - June 9: Please check the Game Assignment page with instructions on what to submit and how. Deadline is June 10 23h59!
+- June 26: Added [results](./README.md/#grades) from Midterm 2 and Individual Assignment.
 
 ## Important Dates
 
@@ -27,8 +28,9 @@
 - [x] April 21, 18h30 - Midterm 1.
 - [x] April 26, 23h59 - [Group Assignment (Game Concept and Proposal)](./projects/ga.md).
 - [x] June 9, 9h30 - Midterm 2.
-- [ ] June 10, 23h59 - [Group Assignment](./projects/ga.md) (Final commit, video and report)
-- [ ] June 12, Public Final Game Presentations (Book your slot [here](https://calendar.app.google/qrsNbAtcZYViC4wx8)!)
+- [x] June 10, 23h59 - [Group Assignment](./projects/ga.md) (Final commit, video and report)
+- [x] June 12, Public Final Game Presentations (Book your slot [here](https://calendar.app.google/qrsNbAtcZYViC4wx8)!)
+- [ ] July 7, Final Exam at 9am, room 128-II.
 
 ## Lectures
 
@@ -81,6 +83,10 @@
 ## Grades
 
 - [Midterm 1 results](./grades/Results-Test%201.pdf)
+- [Midterm 2 results](./grades/Results-Test%202.pdf)
+- [Individual Assignment results](./grades/Results-IA.pdf)
+
+Note: There was a problem with missing slides on [Lecture 10](slides/lecture10.pdf) on the Topic of **Deferred Rendering** (Although they were present in [Part-II](slides/GAI-Lectures-II.pdf)). For that reason 1 multiple choice question and 1 open question were removed and their points equally distributed among the other remaining questions in the corresponding part.
 
 ## Previous Tests/Exams
 
