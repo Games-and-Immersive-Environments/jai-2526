@@ -20,6 +20,8 @@
 - June 9: Please check the Game Assignment page with instructions on what to submit and how. Deadline is June 10 23h59!
 - June 26: Added [results](./README.md#grades) from Midterm 2 and Individual Assignment.
 - June 29: [Results](./README.md#grades) from Normal Season published.
+- July 12, Final [results](./README.md#grades) published.
+
 
 ## Important Dates
 
@@ -33,7 +35,6 @@
 - [x] June 12, Public Final Game Presentations (Book your slot [here](https://calendar.app.google/qrsNbAtcZYViC4wx8)!)
 - [x] June 30: Test 2 Review: Office 245-II, 12pm.
 - [x] July 7, Final Exam at 9am, room 128-II.
-- [ ] July 12, Final results published.
 
 ## Lectures
 
