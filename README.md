@@ -18,8 +18,8 @@
 - June 2: Slides from last lecture available. Added collection of all lectures in two PDF files. Deadline for GA project moved to June 10. Demos/Presentations set for June 12.
 - June 4: Appointment slots for final presentations made available (see Important Dates below). Added Midterm 2 from last year.
 - June 9: Please check the Game Assignment page with instructions on what to submit and how. Deadline is June 10 23h59!
-- June 26: Added [results](./README.md/#grades) from Midterm 2 and Individual Assignment.
-- June 29: Results from Normal Season published.
+- June 26: Added [results](./README.md#grades) from Midterm 2 and Individual Assignment.
+- June 29: [Results](./README.md#grades) from Normal Season published.
 
 ## Important Dates
 
@@ -31,8 +31,9 @@
 - [x] June 9, 9h30 - Midterm 2.
 - [x] June 10, 23h59 - [Group Assignment](./projects/ga.md) (Final commit, video and report)
 - [x] June 12, Public Final Game Presentations (Book your slot [here](https://calendar.app.google/qrsNbAtcZYViC4wx8)!)
-- [ ] June 30: Test 2 Review: Office 245-II, 12pm.
-- [ ] July 7, Final Exam at 9am, room 128-II.
+- [x] June 30: Test 2 Review: Office 245-II, 12pm.
+- [x] July 7, Final Exam at 9am, room 128-II.
+- [ ] July 12, Final results published.
 
 ## Lectures
 
@@ -53,8 +54,8 @@
 | [11](slides/lecture09.pdf) |  22.05 | Pipeline Optimization (continued). Also see repo with demo code [here](https://github.com/Games-and-Immersive-Environments/PipelineAccelerationDemo).|
 | [12](slides/lecture10.pdf) |  28.05 | The Graphics Processing Unit (GPU). Advanced Shading. |
 | [13](slides/lecture10.pdf) |  29.05 | Adanced Shading (continued). |
-| [Part-I](slides/GAI-Lectures-I.pdf) | --.-- | Lectures (Part I)  |
-| [Part-II](slides/GAI-Lectures-II.pdf) | --.-- |   Lectures (Part II) |
+| [Part-I](slides/GIE-Lectures-I.pdf) | --.-- | Lectures (Part I)  |
+| [Part-II](slides/GIE-Lectures-II.pdf) | --.-- |   Lectures (Part II) |
 
 
 
@@ -88,6 +89,7 @@
 - [Midterm 2 results](./grades/Results-Test%202.pdf)
 - [Individual Assignment results](./grades/Results-IA.pdf)
 - [Final Results: Normal Season](./grades/Results-ContinuosAssessment.pdf)
+- [Final Results: Appeal Season](./grades/Results-Rec.pdf)
 
 Note: There was a problem with missing slides on [Lecture 10](slides/lecture10.pdf) on the Topic of **Deferred Rendering** (Although they were present in [Part-II](slides/GAI-Lectures-II.pdf)). For that reason 1 multiple choice question and 1 open question were removed and their points equally distributed among the other remaining questions in the corresponding part.
 
